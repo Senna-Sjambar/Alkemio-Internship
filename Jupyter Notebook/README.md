@@ -12,4 +12,4 @@ After the data is aquired you need to follow the following steps:
 5. Open and run 'Transforming pandas dataframe to prediction table 2023' This will transform the dataframe containing the graph data into the prediction table. This contains the contributors as rows and the community's as columns. If a contributor is member of a community it will show the value 1 if not it will show a 0.
 6. Open and run 'Make and visualize recommendations 2023' After you have collected all the data and transformed it into useable datasets it is possible to make the recommendations for users that are member of a least one community. Besides returning the name of the recommended community's it is also possible to visualize the connections which lead to the recommended community's. <br><br>
 
-** In the map Newest Version you will find the latest functions which includes making graphs in Alkemio colours and recommend contributors to community's **
+**In the map Newest Version you will find the latest functions which includes making graphs in Alkemio colours and recommend contributors to community's**
